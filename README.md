@@ -109,7 +109,7 @@ These visualizations help analyze model performance and convergence behavior.
 ```
 nmo-ms-detection-ai
 │
-├── Nmo_MS.ipynb              # Jupyter notebook with model implementation
+├── Nmo_MS.ipynb              # Google colab with model implementation
 ├── Final_report.pdf          # Detailed project report
 ├── images
 │   ├── accuracy_graph.png
