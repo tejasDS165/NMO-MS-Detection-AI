@@ -112,9 +112,8 @@ nmo-ms-detection-ai
 ├── Nmo_MS.ipynb              # Jupyter notebook with model implementation
 ├── Final_report.pdf          # Detailed project report
 ├── images
-│   ├── training_accuracy.png
-│   ├── validation_accuracy.png
-│   └── activation_comparison.png
+│   ├── accuracy_graph.png
+│   └── training_validation.png
 ├── requirements.txt
 └── README.md
 ```
